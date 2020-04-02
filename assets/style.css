@@ -9,13 +9,20 @@ img {
     display: block;
 
   }
+  
+  body {
+    background-color: rgb(8, 62, 158);
+  }
+
 
 /* Full-width input fields */
-input[type=text], input[type=password], input[type=number] {
+input[type=text], input[type=password], input[type=number], select {
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
   display: inline-block;
+  color: rgb(26, 32, 44);
+  background: rgb(237, 242, 247);
   border: none;
   background: #f1f1f1;
 }
@@ -31,7 +38,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=number]:focus {
   
   /* Set a style for all buttons */
   button {
-    background-color:blue;
+    background-color: rgb(8, 62, 158);
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -46,11 +53,52 @@ input[type=text]:focus, input[type=password]:focus, input[type=number]:focus {
   }
   
   #container {
-    width: 440px;
+    background-color: rgb(255,255,255); 
+        width: 440px;
     margin: 0 auto;
     padding: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
 
   }
 
 
     
+  
+  
+  body {
+    height: 100vh;
+    
+    background-position:
+      top 10px left 10px,
+      top 10px right 10px,
+      bottom 10px right 10px,
+      bottom 10px left 10px;
+    
+    background-size: 86px;
+    background-repeat: no-repeat;
+    
+     background-image: url('./img/topleft.png'),
+                        url('./img/topright.png'),
+                      url('./img/bottomleft.png'),
+                      url('./img/buttomright.png');
+  }
+  
+  .signin {
+    margin: 0 auto;
+    color: #f1f1f1;
+    width: 448px;
+    text-align: center;
+
+  }
+   a {
+     color: #f1f1f1;
+     text-decoration: none;
+   }
+  
+   .logo {
+    width: 200px;
+    height: 100px;
+   }
