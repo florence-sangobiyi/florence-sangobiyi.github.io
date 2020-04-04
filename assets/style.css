@@ -102,3 +102,18 @@ input[type=text]:focus, input[type=password]:focus, input[type=number]:focus {
     width: 200px;
     height: 100px;
    }
+   h1 {
+    color:#083E9E;
+     text-align: center;
+     font-size:24px;
+    
+  }
+  .subheading{
+    font-size: 12px;
+    text-align: center;
+    color: gray;
+padding-bottom: 10px;
+  }
+  label {
+    font-size: 12px;
+  }
