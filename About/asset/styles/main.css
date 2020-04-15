@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto-Regular.ttf')
+  }
+  
+  #app, footer {
+    background-color: #ffdb58;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    height: 600px;
+    width: 500px;
+  }
+  
+  h2 { text-align: center; }
+  
+  p {
+    font-family: Roboto;
+    width: 400px;
+    word-break: break-word;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .education { margin: 0 auto; }
+  
+  .education h3 { text-align: center }
+  
+  .education ul {
+    display: table;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  marquee { font-size: 20px; }
+  
+  footer {
+    font-family: Roboto;
+    text-align: center;
+    padding: 20px;
+  }
+
+  h4 { text-align: center; }
+   
+  .contact-form{
+    
+    margin: 0 auto;
+    
+    width: 250px;
+    padding: 20px;
+
+  }
+
+  
