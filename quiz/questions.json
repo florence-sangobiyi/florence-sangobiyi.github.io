@@ -1,0 +1,59 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "body": "What year did Nigeria gain Independece?",
+        "options": [
+          "1900",
+          "1980",
+          "2000",
+          "1960"
+        ],
+        "answer": "1960"
+      },
+      {
+        "id": 2,
+        "body": "What is the legal age for driving in Nigeria?",
+        "options": [
+          "13 years old",
+          "18 years old",
+          "40 years old",
+          "2 years old"
+        ],
+        "answer": "18 years old"
+      },
+      {
+        "id": 3,
+        "body": "Theory of relativity is ascribed to which scientist?",
+        "options": [
+          "Isaac Newton",
+          "Madonna",
+          "Albert Einstein",
+          "Pythagoras"
+        ],
+        "answer": "Albert Einstein"
+      },
+      {
+        "id": 4,
+        "body": "Which of this options best describes the Nigerian educational system?",
+        "options": [
+          "6-3-3-4",
+          "2-4-3-3-4",
+          "9-3-4",
+          "2-7-3-3-4"
+        ],
+        "answer": "9-3-4"
+      },
+      {
+        "id": 5,
+        "body": "Who invented Javascript?",
+        "options": [
+          "Brendan Eich",
+          "Mitchelli Baker",
+          "Douglas Aim",
+          "Mark Zuckerberg"
+        ],
+        "answer": "Brendan Eich"
+      }
+    ]
+  }

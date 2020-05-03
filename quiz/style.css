@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #root {
+    padding: 40px;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  .options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 400px;
+  }
+  
+  button {
+    background-color: whitesmoke;
+    border-radius: 0;
+    width: 90px;
+    height: 30px;
+  }
+  
